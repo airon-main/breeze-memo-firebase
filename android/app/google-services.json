@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760831851245",
+    "project_id": "crud-firebase-45ea8",
+    "storage_bucket": "crud-firebase-45ea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760831851245:android:ae817a5fea5b5e9fc7aae4",
+        "android_client_info": {
+          "package_name": "com.example.breeze_memo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8zk51ufNf-YMA9MuAvdGVh-WpAuwzJ7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
